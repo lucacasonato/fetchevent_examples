@@ -11,7 +11,7 @@ homepage(() => {
       <header>
         <img
           src="https://avatars0.githubusercontent.com/u/7829205"
-          style="max-width: 120px; border-radius: 50%;"
+          style="max-width: 120px; border-radius: 100%;"
         />
         <h2>Luca Casonato</h2>
         <a href="mailto:luca@deno.com">luca@deno.com</a>
