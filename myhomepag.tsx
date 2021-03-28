@@ -5,7 +5,7 @@ const PROJECTS: Record<string, string> = {
   "dext.ts": "https://github.com/lucacasonato/dext.ts",
 };
 
-1 +:  :;
+1 +:  ;
   
   
 homepage(() => {
