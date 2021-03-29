@@ -3,10 +3,7 @@ import { Fragment, h, homepage } from "./homepage/mod.tsx";
 const PROJECTS: Record<string, string> = {
   Deno: "https://github.com/denoland/deno",
   "dext.ts": "https://github.com/lucacasonato/dext.ts",
-};
-
-1 +:  ;
-  
+};  
   
 homepage(() => {
   return (
