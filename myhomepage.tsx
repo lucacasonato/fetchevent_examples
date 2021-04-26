@@ -4,8 +4,6 @@ const PROJECTS: Record<string, string> = {
   Deno: "https://github.com/denoland/deno",
   "dext.ts": "https://github.com/lucacasonato/dext.ts",
 };
-
-This is a compile error!
   
 homepage(() => {
   return (
